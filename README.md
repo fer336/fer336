@@ -14,6 +14,8 @@ Analista de Sistemas egresado de la Universidad Siglo 21, con especialización e
 🌐 **Proyectos:** [qeva.xyz](https://qeva.xyz)  
 💼 **WhatsApp Empresa:** [+54 9 2254 59-6618](https://wa.me/5492254596618)  
 📧 **Email:** qeva.ai.solutions@gmail.com
+💼 **LinkedIn:** [/in/fcassera](https://www.linkedin.com/in/fcassera)
+
 
 ---
 
