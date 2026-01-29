@@ -1,5 +1,5 @@
 
-# 👋 ¡Hola! Soy Fernando
+# 👋 Hola Soy Fer
 
 ## 🎯 Analista de Sistemas | Especialista en IA & Automatización
 
@@ -108,4 +108,4 @@ Visita mi portafolio completo en: **[qeva.xyz](https://qeva.xyz)**
 ⭐️ From [fer336](https://github.com/fer336)
 
 </div>
-```
+
