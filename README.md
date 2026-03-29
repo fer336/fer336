@@ -1,113 +1,82 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
 
-# 👋 Hola Soy Fer
+# Fernando Cassera
+### Analista de Sistemas · IA & Automatización
+📍 Pinamar, Argentina · Fundador de [Qeva AI](https://qeva.xyz)
 
-## 🎯 Analista de Sistemas | Especialista en IA & Automatización
+<br/>
 
-> Desarrollador de software especializado en agentes de IA y orquestación inteligente de sistemas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fcassera-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcassera)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-contacto-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5492254596618)
+[![Website](https://img.shields.io/badge/qeva.xyz-portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://qeva.xyz)
+[![Email](https://img.shields.io/badge/Email-gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:qeva.ai.solutions@gmail.com)
 
----
+</td>
+<td width="45%" align="right" valign="top">
 
-## 🚀 Sobre mí
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs5bHkzajAydDRlYXRkNTJxc2Jna21tdjQzY2F5YzJrajZndHRyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
 
-Analista de Sistemas egresado de la Universidad Siglo 21, con especialización en el desarrollo de software impulsado por **Agentes de IA** y **Skills orquestados**. Me apasiona crear soluciones inteligentes que automatizan procesos y optimizan flujos de trabajo.
-
-🌐 **Proyectos:** [qeva.xyz](https://qeva.xyz)  
-💼 **WhatsApp Empresa:** [+54 9 2254 59-6618](https://wa.me/5492254596618)  
-📧 **Email:** qeva.ai.solutions@gmail.com
-💼 **LinkedIn:** [/in/fcassera](https://www.linkedin.com/in/fcassera)
-
-
----
-
-## 💻 Stack Tecnológico
-
-### 🤖 IA & Automatización
-![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-### ⚙️ Backend & APIs
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### 🐳 DevOps & Infraestructura
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
-### ☁️ Cloud & Servidores
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
-
-### 💳 Integraciones de Pago
-![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Formación
-
-🎓 **Analista de Sistemas**  
-📍 Universidad Siglo 21
+Desarrollo soluciones de automatización e inteligencia artificial para pequeñas y medianas empresas. Fundador de **[Qeva AI](https://qeva.xyz)** — agentes conversacionales, pipelines de automatización y arquitectura de microservicios sobre infraestructura propia.
 
 ---
 
-## 🌟 Especialización
+## Stack
 
-```python
-especialidades = {
-    "Agentes de IA": ["Claude Code", "Orquestación de Skills"],
-    "Automatización": ["n8n", "Workflows inteligentes"],
-    "Backend": ["FastAPI", "REST APIs", "Python"],
-    "Infraestructura": ["Docker Swarm", "Servidores Hetzner"],
-    "Integraciones": ["Pasarelas de pago", "Mercado Pago"],
-    "Frontend": ["React", "Interfaces modernas"]
-}
-```
+**IA & Agentes**
 
----
+![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=terminal&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=python&logoColor=white)
 
-## 🔥 Qué hago
+**Backend**
 
-✨ Desarrollo de **software con agentes de IA**  
-🤝 Orquestación inteligente de **skills y servicios**  
-🔄 Automatización de procesos con **n8n**  
-🏗️ Arquitectura de microservicios con **Docker Swarm**  
-💰 Implementación de **pasarelas de pago**  
-☁️ Despliegue en servidores **Hetzner**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
----
+**Infraestructura**
 
-## 📊 Estadísticas de GitHub
+![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fer336&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+**Frontend & Pagos**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fer336&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white)
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos
 
-Visita mi portafolio completo en: **[qeva.xyz](https://qeva.xyz)**
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [**OctopusTrack ERP**](https://github.com/fer336/octopus) | ERP modular open-source para PyMEs | Python · FastAPI · React |
+| [**Finanzas IA**](https://github.com/fer336/finanzas) | Plataforma de finanzas personales con agente de IA | LangGraph · Claude API · PostgreSQL |
+| [**QuoteFlow**](https://qeva.xyz) | Generador automatizado de presupuestos para ferretería | n8n · FastAPI · MercadoPago |
 
 ---
 
-## 📫 Contacto
+## Formación
 
-💼 **WhatsApp Empresa:** [+54 9 2254 59-6618](https://wa.me/5492254596618)  
-📧 **Email:** qeva.ai.solutions@gmail.com  
-🌐 **Website:** [qeva.xyz](https://qeva.xyz)  
-💻 **GitHub:** [@fer336](https://github.com/fer336)  
+🎓 Analista de Sistemas — Universidad Siglo 21
 
 ---
 
 <div align="center">
-  
-### 💡 "Transformando ideas en soluciones inteligentes con IA"
 
-⭐️ From [fer336](https://github.com/fer336)
+![](https://komarev.com/ghpvc/?username=fer336&color=58a6ff&style=flat-square&label=profile+views)
 
 </div>
-
