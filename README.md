@@ -4,7 +4,7 @@
 
 # Fernando Cassera
 ### Analista de Sistemas · IA & Automatización
-📍 Pinamar, Argentina · Fundador de [Qeva AI](https://qeva.xyz)
+📍  Argentina · Fundador de [Qeva AI](https://qeva.xyz)
 
 <br/>
 
@@ -75,8 +75,4 @@ Desarrollo soluciones de automatización e inteligencia artificial para pequeña
 
 ---
 
-<div align="center">
 
-![](https://komarev.com/ghpvc/?username=fer336&color=58a6ff&style=flat-square&label=profile+views)
-
-</div>
