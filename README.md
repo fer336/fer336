@@ -61,8 +61,8 @@ Desarrollo soluciones de automatización e inteligencia artificial para pequeña
 
 ## Proyectos
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
+| Proyecto | Descripción |
+|---|---|
 | [**OctopusTrack ERP**](https://github.com/fer336/octopus) | ERP modular open-source para PyMEs · ARCA Facturación electrónica
 | [**Finanzas IA**](https://github.com/fer336/finanzas) | Plataforma de finanzas personales con agente de IA 
 | [**QuoteFlow**](https://qeva.xyz) | Generador automatizado de presupuestos para profesionales independientes 
