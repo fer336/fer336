@@ -4,27 +4,24 @@
 
 # Fernando Cassera
 ### Analista de Sistemas · IA & Automatización
-📍  Argentina · Fundador de [Qeva AI](https://qeva.xyz)
 
+📍  Argentina · Fundador de [OctopusTrack](https://octopustrack.shop)
 <br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fcassera-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcassera)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-contacto-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5492254596618)
-[![Website](https://img.shields.io/badge/qeva.xyz-portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://qeva.xyz)
-[![Email](https://img.shields.io/badge/Email-gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:qeva.ai.solutions@gmail.com)
+[![Website](https://img.shields.io/badge/octopustrack.shop-portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://octopustrack.shop)
+[![Email](https://img.shields.io/badge/Email-contacto-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@octopustrack.shop)
 
 </td>
 <td width="45%" align="right" valign="top">
-
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs5bHkzajAydDRlYXRkNTJxc2Jna21tdjQzY2F5YzJrajZndHRyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
-
 </td>
 </tr>
 </table>
 
 ---
 
-Desarrollo soluciones de automatización e inteligencia artificial para pequeñas y medianas empresas. Fundador de **[Qeva AI](https://qeva.xyz)** — agentes conversacionales, pipelines de automatización y arquitectura de microservicios sobre infraestructura propia.
+Desarrollo soluciones de automatización e inteligencia artificial para pequeñas y medianas empresas. Fundador de **[OctopusTrack](https://octopustrack.shop)** — agentes conversacionales, pipelines de automatización y arquitectura de microservicios sobre infraestructura propia.
 
 ---
 
@@ -63,16 +60,12 @@ Desarrollo soluciones de automatización e inteligencia artificial para pequeña
 
 | Proyecto | Descripción |
 |---|---|
-| [**OctopusTrack ERP**](https://github.com/fer336/octopus) | ERP modular open-source para PyMEs · ARCA Facturación electrónica
-| [**Finanzas IA**](https://github.com/fer336/finanzas) | Plataforma de finanzas personales con agente de IA 
-| [**QuoteFlow**](https://qeva.xyz) | Generador automatizado de presupuestos para profesionales independientes 
+| [**OctopusTrack ERP**](https://github.com/fer336/octopus) | ERP modular open-source para PyMEs · ARCA Facturación electrónica |
+| [**Finanzas IA**](https://github.com/fer336/finanzas) | Plataforma de finanzas personales con agente de IA |
+| [**QuoteFlow**](https://octopustrack.shop) | Generador automatizado de presupuestos para profesionales independientes |
 
 ---
 
 ## Formación
 
 🎓 Analista de Sistemas — Universidad Siglo 21
-
----
-
-
