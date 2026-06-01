@@ -4,9 +4,10 @@
 
 # Fernando Cassera
 ### Analista de Sistemas · IA & Automatización
-
 📍  Argentina · Fundador de [OctopusTrack](https://octopustrack.shop)
+
 <br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fcassera-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcassera)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-contacto-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5492254596618)
 [![Website](https://img.shields.io/badge/octopustrack.shop-portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://octopustrack.shop)
@@ -29,11 +30,13 @@ Desarrollo soluciones de automatización e inteligencia artificial para pequeña
 
 **IA & Agentes**
 
-![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=terminal&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=python&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-6E40C9?style=flat-square&logo=ollama&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Backend**
 
@@ -48,11 +51,8 @@ Desarrollo soluciones de automatización e inteligencia artificial para pequeña
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
-**Frontend & Pagos**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white)
 
 ---
 
