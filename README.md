@@ -38,8 +38,7 @@ Diseño y desarrollo soluciones de software, automatización e inteligencia arti
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Hermes](https://img.shields.io/badge/Hermes-6E40C9?style=flat-square&logo=ollama&logoColor=white)
-![herdr](https://img.shields.io/badge/herdr-000000?style=flat-square&logo=terminal&logoColor=white)
+
 
 **Backend**
 
